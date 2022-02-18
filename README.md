@@ -5,7 +5,7 @@
 #### Web developer
 
 
-Love to learn new skills. Now learning php. Full and fresh hand code is my power. Client satisfaction is my first priority.
+Love to learn new skills. Now learning Javascript. Full and fresh hand code is my power. Client satisfaction is my first priority.
 
 Skills: REACT / JS / HTML / CSS/ Photoshop/ Wordpress /
 
