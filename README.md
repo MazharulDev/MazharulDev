@@ -7,7 +7,7 @@
 
 Love to learn new skills. Now learning Javascript. Full and fresh hand code is my power. Client satisfaction is my first priority.
 
-Skills: REACT / JS / HTML / CSS/ Photoshop/ Wordpress /
+Skills: HTML / CSS/ Bootstrap/ tailwindcss/ Javacript / Photoshop / Wordpress basic
 
 - 🌱 I’m currently learning php 
 - 👯 I’m looking to collaborate on github 
