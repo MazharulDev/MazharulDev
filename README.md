@@ -9,7 +9,7 @@ Love to learn new skills. Now learning Javascript. Full and fresh hand code is m
 
 Skills: HTML / CSS/ Bootstrap/ tailwindcss/ Javacript / Photoshop / Wordpress basic
 
-- 🌱 I’m currently learning php 
+- 🌱 I’m currently learning react 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web development 
 
