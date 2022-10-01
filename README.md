@@ -33,8 +33,6 @@ My name is Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, posit
 <a href="https://instagram.com/mazharuldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mazharuldev" height="30" width="40" /></a>
 <a href="https://discord.gg/Mazharul_Islam#9377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mazharul_Islam#9377" height="30" width="40" /></a>
 </p>
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Dev Funny Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
