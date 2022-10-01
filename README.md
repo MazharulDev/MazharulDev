@@ -9,17 +9,12 @@ My name is Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, posit
 
 - 👨‍💻 All of my projects are available at [https://mazharul.netlify.app/](https://mazharul.netlify.app/)
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **Web Solutions**
 
 - 📫 How to reach me **mazharulislam.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EzKEB-f-4PZvPIvrio9N2qqQoowsulp1/view?usp=sharing](https://drive.google.com/file/d/1EzKEB-f-4PZvPIvrio9N2qqQoowsulp1/view?usp=sharing)
+- ⚡ Fun fact **I Think i'm funny too :)**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazharuldev&label=Profile%20views&color=0e75b6&style=flat" alt="mazharuldev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazharuldev" alt="mazharuldev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mazharuldev" target="blank"><img src="https://img.shields.io/twitter/follow/mazharuldev?logo=twitter&style=for-the-badge" alt="mazharuldev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
