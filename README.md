@@ -30,4 +30,4 @@ My name is Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, posit
 <a href="https://discord.gg/Mazharul_Islam#9377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mazharul_Islam#9377" height="30" width="40" /></a>
 </p>
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MazharulDev) 
