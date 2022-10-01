@@ -1,4 +1,14 @@
-(https://scontent.fdac3-1.fna.fbcdn.net/v/t39.30808-6/306851951_3942624479296700_1800508005923679158_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEvPQ1bMAukwMaVy75nG_WsaMMvOZuaG89owy85m5obz1w0HlGfM7i5XkmOahrOXF8I_OKNFOFMR1Lzbqsul2pY&_nc_ohc=hUZvnkm5mNAAX9JNLuN&_nc_zt=23&_nc_ht=scontent.fdac3-1.fna&oh=00_AT937zuM1fvIG_M0SEkCxHJNLSpkzEW9UVmKX4qwPNgADA&oe=633C2AF7)
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://scontent.fdac3-1.fna.fbcdn.net/v/t39.30808-6/306851951_3942624479296700_1800508005923679158_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEvPQ1bMAukwMaVy75nG_WsaMMvOZuaG89owy85m5obz1w0HlGfM7i5XkmOahrOXF8I_OKNFOFMR1Lzbqsul2pY&_nc_ohc=hUZvnkm5mNAAX9JNLuN&_nc_zt=23&_nc_ht=scontent.fdac3-1.fna&oh=00_AT937zuM1fvIG_M0SEkCxHJNLSpkzEW9UVmKX4qwPNgADA&oe=633C2AF7)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
 <h1 align="center">Hi 👋, I'm Mazharul Islam</h1>
 <h3 align="center">React Developer | Front End Web Developer | Mern stack web developer</h3>
 
