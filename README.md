@@ -22,21 +22,8 @@ My name is Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, posit
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mazharuldev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mazharuldev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mazharuldev&icon=3&color=0)](https://visitcount.itsvg.in)
-
-
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/mazharuldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazharuldev" height="30" width="40" /></a>
@@ -46,5 +33,10 @@ My name is Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, posit
 <a href="https://instagram.com/mazharuldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mazharuldev" height="30" width="40" /></a>
 <a href="https://discord.gg/Mazharul_Islam#9377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mazharul_Islam#9377" height="30" width="40" /></a>
 </p>
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Dev Funny Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MazharulDev) 
