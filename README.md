@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mazharul Islam</h1>
 <h3 align="center">React Developer | Front End Web Developer | Mern stack web developer</h3>
 
+My name is Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, positive and capable web developer who has developed various skills over the years that will give me a special place in the workplace. I am building several projects with React JS. I take my work as a web developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazharuldev&label=Profile%20views&color=0e75b6&style=flat" alt="mazharuldev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazharuldev" alt="mazharuldev" /></a> </p>
