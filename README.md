@@ -3,9 +3,9 @@
 <h1 align="center">Hi <a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a>, I'm Md Mazharul Islam</h1>
 <h3 align="center">React Developer | Front End Web Developer | Mern stack web developer</h3>
 
-My name is Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, positive and capable web developer who has developed various skills over the years that will give me a special place in the workplace. I am building several projects with React JS. I take my work as a web developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
+My name is Md Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, positive and capable web developer who has developed various skills over the years that will give me a special place in the workplace. I am building several projects with React JS. I take my work as a web developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
 
-- 🌱 I’m currently learning **Mongoose, Redux, Typescript**
+- 🌱 I’m currently learning **Redux, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://mazharulislam-dev.web.app/](https://mazharulislam-dev.web.app/)
 
