@@ -5,13 +5,13 @@
 
 My name is Md Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, positive and capable web developer who has developed various skills over the years that will give me a special place in the workplace. I am building several projects with React JS. I take my work as a web developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
 
-- 🌱 I’m currently learning **Redux, Typescript, Basic Python**
+- 🌱 I’m currently learning **Redux, Typescript, nextjs**
 
 - 👨‍💻 All of my projects are available at [https://mazharulislam-dev.web.app/](https://mazharulislam-dev.web.app/)
 
 - 💬 Ask me about **Web Solutions**
 
-- 📫 How to reach me **mazharulislam.dev@gmail.com**
+- 📫 How to reach me **mdmazharulislam.dev@gmail.com**
 
 - ⚡ Fun fact **I Think i'm funny too :)**
 
