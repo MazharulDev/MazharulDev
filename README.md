@@ -7,7 +7,7 @@ My name is Md Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, po
 
 - 🌱 I’m currently learning **Redux, Typescript, nextjs**
 
-- 👨‍💻 All of my projects are available at [https://mazharulislam-dev.web.app/](https://mazharulislam-dev.web.app/)
+- 👨‍💻 All of my projects are available at [Click here](https://mdmazharulislam-dev.web.app/)
 
 - 💬 Ask me about **Web Solutions**
 
