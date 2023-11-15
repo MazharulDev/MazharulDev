@@ -1,9 +1,9 @@
-<img src="Mazharul_Islam.png" alt="" /> </a><p align="center">
+<!-- <img src="Mazharul_Islam.png" alt="" /> </a><p align="center"> -->
 
 <h1 align="center">Hi <a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a>, I'm Md Mazharul Islam</h1>
 <h3 align="center">React Developer | Front End Web Developer | Mern stack web developer</h3>
 
-My name is Md Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, positive and capable web developer who has developed various skills over the years that will give me a special place in the workplace. I am building several projects with React JS. I take my work as a web developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
+My name is Md Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, positive and capable web developer who has developed various skills over the years that will give me a special place in the workplace. I am building several projects with ReactJS, NextJs and NodeJs. I take my work as a web developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
 
 - 🌱 I’m currently learning **Docker, AWS**
 
@@ -14,8 +14,6 @@ My name is Md Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, po
 - 📫 How to reach me **mdmazharulislam.dev@gmail.com**
 
 - ⚡ Fun fact **I Think i'm funny too :)**
-
-![Profile views](https://gpvc.arturio.dev/MazharulDev)
 
 <br />
 
@@ -63,8 +61,8 @@ My name is Md Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, po
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/mazharuldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazharuldev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mazharuldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazharuldev" height="30" width="40" /></a>
+<a href="https://twitter.com/mazharuldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazharuldev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18386206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18386206" height="30" width="40" /></a>
 <a href="https://fb.com/mazharuldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazharuldev" height="30" width="40" /></a>
 <a href="https://instagram.com/mazharuldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mazharuldev" height="30" width="40" /></a>
