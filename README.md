@@ -1,4 +1,4 @@
-<!-- <img src="Mazharul_Islam.png" alt="" /> </a><p align="center"> -->
+<img src="Md_Mazharul_Islam.png" alt="" /> </a><p align="center">
 
 <h1 align="center">Hi <a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a>, I'm Md Mazharul Islam</h1>
 <h3 align="center">React Developer | Front End Web Developer | Mern stack web developer</h3>
