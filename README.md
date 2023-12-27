@@ -1,6 +1,6 @@
 <img src="Md_Mazharul_Islam.png" alt="" /> </a><p align="center">
 
-<h1 align="center">Hi <a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a>, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1A84F7&random=false&width=850&lines=Md+Mazharul+Islam;Full+Stack+Developer;)](https://git.io/typing-svg) </h1>
+<h1 align="center">Hi <a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a>, I'm Md Mazharul Islam</h1>
 <h3 align="center">Enthusiastic Backend Developer | Javascript Engineer | MERN stack web developer | Creative thinker</h3>
 
 My name is Md Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, positive and capable web developer who has developed various skills over the years that will give me a special place in the workplace. I am building several projects with ReactJS, NextJs and NodeJs. I take my work as a web developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
@@ -51,7 +51,16 @@ My name is Md Mazharul Islam. I'm MERN Stack Developer. I am an enthusiastic, po
     <img src="https://img.shields.io/badge/linux-657D8B?style=for-the-badge&logo=linux&logoColor=FFFFFF" height="25"/>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mazharuldev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Current Stats
+
+<div align="center" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MazharulDev&theme=github_dark" width="100%">
+</div>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MazharulDev&theme=github_dark" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MazharulDev&theme=github_dark" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MazharulDev&theme=github_dark&utcOffset=8" width="33%">
+</div>
 
 ### ✍️ Random Dev Quote
 
